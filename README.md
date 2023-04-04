@@ -1,4 +1,4 @@
-# string-manipulator-two-exercise-template
+# string-manipulator-two-exercise
 
 Write a StringManipulator class that contains two methods: Reverse and Truncate. The Reverse method takes a string as input and returns the string with its characters reversed. The Truncate method takes a string and an integer length as input, and returns the first length characters of the string. If the length of the input string is less than or equal to length, the original string is returned unchanged.
 
